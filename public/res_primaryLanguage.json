@@ -1,0 +1,114 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 My name is Anish Kumar Garg. I am a BE-Computer Science student at Chitkara Unversity Rajpura. I live in Chandigarh, India. My academic journey has been a thrilling adventure through algorithms, data structures, and software development. Every line of code I write is a step closer to realizing my vision of creating innovative solutions that make a positive impact on the world. Beyond my classroom, I believe in the power of practical experience. I've delved into various coding projects, both solo and collaborative, to apply my knowledge in real-world scenarios. At last I would like to say that I am one of the most determined, hardworking and competitive person be in academics or be it extra-curricular activities. Thank You 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Blog Website",
+        "startDate": "2023",
+        "description": "My third-year project was the first React Web application I had the opportunity to work on. enables you to upload images and write your own blogs on any subject.",
+        "images": [
+          "images/portfolio/blog/que-es-un-blog-1.jpg",
+          "images/portfolio/blog/BLOG01.jpg"
+        ],
+        "url": "google.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original colored",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-firebase-plain colored",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Weather Detection",
+        "startDate": "2022",
+        "description": "Personal project for my own Experience. Takes in the name of any state or city of the world and tells its current weather using OpenWeather API. ",
+        "images": [
+          "images/portfolio/weather-detect/wd-pic1.png",
+          "images/portfolio/weather-detect/Sun-Moon_apparent_sizes_(min-max_quartered).jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-google-plain",
+            "name": "Google Colab"
+          }
+        ]
+      },
+      {
+        "title": "Tree-No Tree",
+        "startDate": "2021",
+        "description": "One of the first ever android apps I worked upon. I had to develop an android application that takes in a photo of any structure and detects whether that is a tree or not on the go. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/Trees-1024x682.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "OpenCV"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
